@@ -1,0 +1,16 @@
+{
+  appid: 2222223,
+  type: 'cdr',
+  direction: 'inbound',
+  cmiuuid: '16132200-57fa-47b5-888d-4ab5b7e631ee',
+  user: '204_2222223',
+  status: 'answered',
+  to: 440000000001,
+  from: 440000000000,
+  time: 1634720920615,
+  answeredsec: 11,
+  team: 'Sales_2222223',
+  hangup_reason: 'recv_bye',
+  record: true,
+  filename: '1634720915260737218351_2222223.mp3'
+}
